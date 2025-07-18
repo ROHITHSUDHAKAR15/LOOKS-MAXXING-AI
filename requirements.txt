@@ -1,0 +1,5 @@
+streamlit
+opencv-python
+numpy
+Pillow
+# Optional: tensorflow (only if using ML model) 
