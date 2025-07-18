@@ -443,7 +443,7 @@ if image is not None:
     img_cv = cv2.cvtColor(img_np, cv2.COLOR_RGB2BGR)
     with st.spinner('Detecting and cropping face...'):
         cropped_face = auto_crop_face(img_cv)
-    st.image(Image.fromarray(cv2.cvtColor(cropped_face, cv2.COLOR_BGR2RGB)), caption='Auto-cropped Face', use_container_width=True)
+    st.image(Image.fromarray(cv2.cvtColor(cropped_face, cv2.COLOR_BGR2RGB)), caption='Auto-cropped Face', use_container_width=640)
     with st.spinner('Extracting face regions...'):
         regions = extract_face_regions_extended(cropped_face)
 
