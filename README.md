@@ -2,6 +2,8 @@
 deployed on-https://looksmaxxing.streamlit.app/
 <img width="1440" height="900" alt="Screenshot 2025-07-18 at 22 37 43" src="https://github.com/user-attachments/assets/1aa3fc06-221c-47cc-95b1-287410f90a3f" />
 <img width="1437" height="782" alt="Screenshot 2025-07-18 at 23 05 06" src="https://github.com/user-attachments/assets/d28311a9-ef3b-4031-9f01-89b7937d718b" />
+<img width="855" height="634" alt="Screenshot 2025-07-18 at 23 47 29" src="https://github.com/user-attachments/assets/3648ffd4-c2f6-4a26-980a-6d25b18043cb" />
+
 
 
 This web application leverages computer vision and machine learning to analyze facial images for common skin concerns and provides personalized skincare recommendations. Designed for accessibility and ease of use, it runs on Streamlit and requires no specialized hardware.
